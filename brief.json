@@ -1,0 +1,61 @@
+{
+  "_assinatura": "Site Cinematográfico · Labrego IA · LBG-SC-2026-v1",
+  "nome": "Petsitter Giu Rossi",
+  "slug": "petsitter-giu-rossi",
+  "titulo_aba": "Petsitter Giu Rossi",
+  "negocio": "Petsitter autônoma: visitas na casa do pet, passeios com cães, medicamentos orais e cuidados especiais, fotos e vídeos de cada visita",
+  "publico": "Tutores de cães e gatos no centro de São Paulo (Higienópolis, Santa Cecília, Luz, Bom Retiro, Consolação e arredores), que chegam pelo celular via Instagram ou indicação",
+  "objetivo": "O visitante manda a primeira mensagem no WhatsApp",
+  "frase_impacto": "Seu cachorro ou gato bem cuidado, sem sair de casa.",
+  "diferenciais": [
+    "Atenção individual para cada pet",
+    "Fotos e vídeos de cada visita",
+    "Videochamada de apresentação gratuita antes de começar"
+  ],
+  "identidade": {
+    "cores": {
+      "fundo": "#FBF3DF",
+      "fundo2": "#F4EAD0",
+      "cartao": "#FFFCF3",
+      "texto": "#2B382D",
+      "titulo": "#3F5742",
+      "acento": "#A33F43",
+      "texto_botao": "#FFF8EA",
+      "destaque": "#EB8E50",
+      "salvia": "#879173",
+      "rosado": "#F2B8A8"
+    },
+    "fontes": { "titulo": "Gabarito", "texto": "Figtree", "hospedagem": "local (self-hosted)" },
+    "clima": ["acolhedor", "caloroso", "alegre", "confiável", "caseiro"],
+    "tema": "claro"
+  },
+  "logo": "C:/Users/maril/Downloads/site-cinematografico-petsitter-giu/arquivos-site-giu/logo.webp",
+  "material_proprio": {
+    "video": "fonte/abertura.mp4 (giu correndo com mallow no parque - horizontal.mp4, 3840x2160, 30fps, 3,97 s, 119 frames)",
+    "imagens": ["hero", "maya", "lara", "passeio", "giu-mallow", "giu-frajola", "giu-gato-laranja", "gatos", "logo"]
+  },
+  "copy": "Parte C do briefing, usada exatamente como está (texto da Giu e depoimento da Camila com emojis/ortografia originais).",
+  "depoimentos": {
+    "real": { "autor": "Camila, Santa Cecília", "foto": "maya" },
+    "exemplo": { "autor": "Isabella, Higienópolis", "foto": "lara", "etiqueta": "Exemplo" }
+  },
+  "referencias": ["cuidadordegatossp.com.br", "catconnection.com.br", "thaliapetsitter.com.br"],
+  "whatsapp": {
+    "numero": "5511966217990",
+    "exibicao": "(11) 96621-7990",
+    "mensagem": "Oi, Giu! Vim pelo seu site e quero saber mais sobre o serviço de pet sitter."
+  },
+  "email_contato": "giukr0ssi@gmail.com",
+  "instagram": "@giu_r0ssi",
+  "secoes": ["inicio", "sobre", "servicos", "como funciona", "o que voce recebe", "depoimentos", "onde atendo", "perguntas frequentes", "contato"],
+  "regras": [
+    "Nada inventado: sem preço, nota, número de clientes, prêmio, certificação",
+    "Giu e pets só em fotos reais; imagens geradas só para objetos/ambiente",
+    "Não publicar em hospedagem/domínio",
+    "Rodapé com crédito Site por Labrego IA (obrigatório)"
+  ],
+  "credito_rodape": true,
+  "a_confirmar": ["domínio", "data de publicação"],
+  "conceito": "",
+  "modelos": { "video": "nenhum (vídeo próprio)", "imagem": "nenhum (fotos próprias)" }
+}
